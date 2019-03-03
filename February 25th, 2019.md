@@ -10,7 +10,7 @@ modified: '2019-02-25T23:21:55.435Z'
 - CS team plans on creating a single module to be used by each of the 3 ME teams' buggies
     - ME teams worry about how testing on their side will go using this approach
 - Have ICD created by first week of April
-    - Specify dimentions, weight and location of our module on buggy
+    - Specify dimensions, weight and location of our module on buggy
 - Setting up a Google doc / Sharepoint for all to share docs
     - Discord channels could suffice for this
         
